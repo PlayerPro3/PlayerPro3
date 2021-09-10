@@ -8,4 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have more than 320 friends on discord and I have joined 26 servers.
 
+<img="20" src="file:///C:/Users/Raheel/Desktop/AJ%20Folder/Python/PyLogo.png">
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=PlayerPro3&&show_icons=true&title_color=00ffb7&icon_color=ff0000&text_color=70ff7a&bg_color=151515">

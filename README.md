@@ -15,6 +15,10 @@
 
 - 📫 How to reach me: **Discord (PlayerPro#0700)**
 
+- 😄 Pronouns: **He/Him**
+
+- ⚡ Fun fact: **I have more than 320 friends on discord and I have joined 26 servers**
+
 
 **Languages and Tools:**
 

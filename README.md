@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Discord bot.**
+- 👯 I’m looking to collaborate on **my projects.**
 
 - 🤝 I’m looking for help with **you guys.**
 

@@ -27,4 +27,3 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlayerPro3">
 <img src="https://github-readme-stats.vercel.app/api?username=PlayerPro3&&show_icons=true&title_color=00ffb7&icon_color=ff0000&text_color=70ff7a&bg_color=151515">
-<img src="https://devbio.me/u/PlayerPro">

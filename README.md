@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Playerpro.py</h1>
+<h1 align="center">Hi 👋, I'm PlayerPro.py</h1>
 <h3 align="center">I am a Python programmer/coder (Beginner).</h3>
 
 

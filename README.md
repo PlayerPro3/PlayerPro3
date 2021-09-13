@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **you guys.**
 
-- 💬 Ask me about **any help for Python.**
+- 💬 Ask me about **Python.**
 
 - 📫 How to reach me: **Discord (PlayerPro#0700)**
 

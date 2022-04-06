@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: **I have more than 320 friends on discord and I have joined 26 servers**
+- ⚡ Fun fact: **I have nerver played any mode on Minecraft except survival and creative**
 
 
 **Languages and Tools:**

@@ -30,5 +30,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlayerPro3">
 <img src="https://github-readme-stats.vercel.app/api?username=PlayerPro3&&show_icons=true&title_color=3befff&icon_color=00ffa2&text_color=00d6d6&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanJnr&hide=html,css,dockerfile,scss&title_color=3befff&text_color=00d6d6&bg_color=151515" width="600" height="250">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanJnr&hide=html,css,dockerfile,scss&title_color=3befff&text_color=00d6d6&bg_color=151515" width="500" height="250">
 <img src="https://activity-graph.herokuapp.com/graph?username=PlayerPro3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=00708f&hide_border=true">

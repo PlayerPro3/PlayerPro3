@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **website.**
+- 🔭 I’m currently working on **Game Jam.**
 
 - 🌱 I’m currently learning **Python**
 

@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **learning coding.**
+- 👯 I’m looking to collaborate on **making websites.**
 
-- 🤝 I’m looking for help with **my websites.**
+- 🤝 I’m looking for help with **my learning.**
 
 - 💬 Ask me about **Python.**
 
@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: **I am a living secret!**
+- ⚡ Fun fact: **I don't have anything to say**
 
 
 **Languages and Tools:**

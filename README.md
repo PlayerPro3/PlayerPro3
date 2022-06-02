@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Web Development.**
+- 🔭 I’m currently working on **web development.**
 
 - 🌱 I’m currently learning **JavaScript**
 

@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Game Jam.**
+- 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **my projects.**
 
@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: **I have nerver played any mode on Minecraft except survival and creative**
+- ⚡ Fun fact: **I am a living secret!**
 
 
 **Languages and Tools:**

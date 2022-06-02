@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **my projects.**
+- 👯 I’m looking to collaborate on **learning coding.**
 
-- 🤝 I’m looking for help with **making a website.**
+- 🤝 I’m looking for help with **my websites.**
 
 - 💬 Ask me about **Python.**
 

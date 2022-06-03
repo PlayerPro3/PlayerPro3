@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PlayerPro</h1>
-<h3 align="center">I am a Python programmer/coder (Beginner).</h3>
+<h3 align="center">I am a Python and JavaScript programmer.</h3>
 
 
 
